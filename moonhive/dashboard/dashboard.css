@@ -1,0 +1,82 @@
+.navimg{
+    height: 75px;
+    width: 75px;
+}
+.alex{
+    font-size: x-large; 
+    font-weight: bold;
+    margin-bottom: 35px;
+    text-decoration: none;
+    
+}
+.std
+{
+    position: absolute;
+    top: 40px;
+    left:405px;
+    font-size: small;
+    opacity: 50%;
+}
+.iq
+{
+    position: absolute;
+    top: 40px;
+    left:480px;
+    font-size: small;
+    opacity: 50%;
+}
+.nav2
+{
+ 
+  text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: small;
+  opacity: 65%;
+  font-weight: bolder;
+
+}
+.nav2:hover
+{
+ opacity: 100%;
+ text-decoration: underline;
+}
+
+.box1{
+    background-color: rgb(227, 228, 230);
+    height:6vh;
+    margin-top: 5vh;
+    display: flex;
+    justify-content: space-between;
+}
+.image2{
+    height:15px;
+    width:15px;
+    margin-right: 7px;
+    
+}
+.upgrade{
+    margin-top: 15px; 
+    text-decoration: none; 
+    color: black; 
+    opacity:50% ;
+}
+.upgrade:hover
+{
+    opacity: 100%;
+    color: black;
+}
+li{
+    list-style-type: none;
+    
+}
+.fotli{
+    color: rgb(95, 93, 93);
+    text-decoration: none;
+    font-size: smaller;
+    opacity: 55%;
+    font-weight: 500;
+}
+ul{
+    font-weight: bold;
+    color: darkgrey;
+}
